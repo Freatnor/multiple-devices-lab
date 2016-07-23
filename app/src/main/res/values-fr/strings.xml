@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="want_to_know">Vous voulez savoir ce qui se passera dans trois mois?</string>
+    <string name="click_me">Cliquez sur-moi</string>
+    <string name="keep_working">Vous serez un développeur Android génial! Il suffit de continuer à travailler dur!</string>
+</resources>
